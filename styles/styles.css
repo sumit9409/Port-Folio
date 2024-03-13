@@ -644,6 +644,7 @@ button:hover {
 
   .header-content .left-header .image {
     margin: 0 auto;
+    height: 80%;
     width: 90%;
   }
 
